@@ -1,0 +1,26 @@
+[
+    {
+       "image": "Images/laptop1.webp",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "9,99"
+    },
+    {
+       "image": "Images/laptop2.png",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "9,99"
+    },
+    {
+       "image": "Images/laptop3.jpeg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "9,99"
+    },
+    {
+       "image": "Images/laptop4.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "9,99"
+    }
+]

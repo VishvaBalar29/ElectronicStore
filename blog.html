@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/bootstrap-5.2.3-dist/bootstrap-5.2.3-dist/css/bootstrap.min.css">
+    <script src="assets/bootstrap-5.2.3-dist/bootstrap-5.2.3-dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!-- carousel link -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <!-- icon link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <title>Electronic website</title>
+</head>
+
+<body><!-- navbar starts here -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid text-center">
+            <a class="navbar-brand" href="#">Gadget Zone</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+                aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-center" id="navbarNavDropdown">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0 m-auto ">
+                    <li class="nav-item mx-auto">
+                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="Products.html" role="button"
+                            data-bs-toggle="dropdown">Products</a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="products.html?dataType=mobile">Phones and wearables</a></li>
+                            <li><a class="dropdown-item" href="products.html?dataType=Telivision">Telivisions & Accessories</a></li>
+                            <li><a class="dropdown-item" href="products.html?dataType=laptop">Laptops & Tablets</a></li>
+                            <li><a class="dropdown-item" href="products.html?dataType=home">Home Appliances</a></li>
+                            <li><a class="dropdown-item" href="#">Audio & Video</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item mx-auto">
+                        <a class="nav-link" href="blog.html">Blog</a>
+                    </li>
+                    <li class="nav-item mx-auto">
+                        <a class="nav-link" href="#">About</a>
+                    </li>
+                    <li class="nav-item mx-auto">
+                        <a class="nav-link" href="#">Contact us</a>
+                    </li>
+                </ul>
+            <i class="fa fa-search ms-3 text-center" style="font-size:27px"></i>
+            <i class="fa fa-shopping-cart ms-3 text-center" style="font-size:27px"></i>
+            <i class="fa fa-user-circle ms-3 me-2 text-center" data-toggle="modal" data-target="#myModal" style="font-size:27px"></i>
+        </div>
+    </div>
+    </nav>
+    <!-- Navbar End -->
+
+
+    <div class="products"></div>
+   <script>
+   let http = new XMLHttpRequest();
+    http.open('get', 'data/blog.json', true);
+    http.send();
+    http.onload = function(){
+       if(this.readyState == 4 && this.status == 200){
+          let products = JSON.parse(this.responseText);
+          let output = "";
+          for(let item of products){
+             output += `
+                <div class="product">
+                   <img src="${item.image}" alt="${item.description}" height="300" width="300">
+                   <p class="title">${item.title}</p>
+                   <p class="description">${item.description}</p>
+                   <p class="price">
+                      <span>${item.price}</span>
+                      <span>€</span>
+                   </p>
+                   <p class="cart">Add to cart <i class="bx bx-cart-alt"></i></p>
+                </div>
+             `;
+          }
+          document.querySelector(".products").innerHTML = output;
+       }
+    }</script>
+</body>

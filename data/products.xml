@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>1</id>
+        <category>mobile</category>
+        <brand>Apple</brand>
+        <name>iPhone 14 Pro</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>mobile1.jpeg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>2</id>
+        <category>mobile</category>
+        <brand>Samsung</brand>
+        <name>Samsung Galaxy S22 Ultra</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>mobile2.jpg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>3</id>
+        <category>mobile</category>
+        <brand>Apple</brand>
+        <name>iPhone 13</name>
+        <mrp>1,36,000</mrp>
+        <offerprice>86,130</offerprice>
+        <image>mobile3.jpg</image>
+        <description>New iPhone 14 Plus has a supersized Super Retina XDR display. Longest battery life ever. A new Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>4</id>
+        <category>mobile</category>
+        <brand>Apple</brand>
+        <name>OnePlus Nord CE</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>mobile4.jpg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>5</id>
+        <category>mobile</category>
+        <brand>Apple</brand>
+        <name>OnePlus 10T 5G</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>mobile5.jpg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>6</id>
+        <category>mobile</category>
+        <brand>Apple</brand>
+        <name>Oppo F21 Pro</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>mobile6.jpg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>7</id>
+        <category>mobile</category>
+        <brand>Apple</brand>
+        <name>iPhone 13 pro</name>
+        <mrp>1,76,000</mrp>
+        <offerprice>96,130</offerprice>
+        <image>mobile7.jpeg</image>
+        <description>The Apple iPhone 14 Pro Max 5G comes with a 6.7-inch ProMotion technology touchscreen, features Crash Detection and a new Truedepth 48-megapixel front camera with Photonic Engine, an extra hour of video playback compared to last year's model and a new Action mode</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>8</id>
+        <category>mobile</category>
+        <brand>Vivo</brand>
+        <name>Vivo Y75</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>mobile8.jpg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>9</id>
+        <category>mobile</category>
+        <brand>Samsung</brand>
+        <name>Samsung flip</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>mobile9.png</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>10</id>
+        <category>Telivision</category>
+        <brand>Sansui</brand>
+        <name>Sansui 140 cm(55 inch) QLED</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>Tv1.jpg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>11</id>
+        <category>Telivision</category>
+        <brand>Samsung</brand>
+        <name>Samsung Series 4 80 cm(32 inch)</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>Tv2.webp</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>12</id>
+        <category>Telivision</category>
+        <brand>Mi</brand>
+        <name>Mi 5A 80 cm(32 inch)</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>Tv3.webp</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>13</id>
+        <category>Telivision</category>
+        <brand>Oneplus</brand>
+        <name>Oneplus Y series</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>Tv-4.jpg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>14</id>
+        <category>Telivision</category>
+        <brand>Acer</brand>
+        <name>Acer I Series 108 cm(43 inch)</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>Tv5.jpg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>1 0</qty>
+    </product>
+    <product>
+        <id>15</id>
+        <category>Telivision</category>
+        <brand>Realme</brand>
+        <name>Realme 80cm(32 inch) HD Ready LED Smart TV</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>Tv6.jpg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>16</id>
+        <category>laptop</category>
+        <brand>Lenovo</brand>
+        <name>Lenovo IdeaPad 1 AMD Ryzen 3</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>laptop1.webp</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>17</id>
+        <category>laptop</category>
+        <brand>Acer</brand>
+        <name>Acer Aspire 5 Intel Core i5 12th Gen</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>laptop2.png</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>18</id>
+        <category>laptop</category>
+        <brand>Apple</brand>
+        <name>Apple MacBook Pro </name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>laptop3.jpeg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>19</id>
+        <category>laptop</category>
+        <brand>Assus</brand>
+        <name>ASUS TUF FA506IHRB-HN079W AMD Ryzen 5</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>laptop4.jpg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>20</id>
+        <category>laptop</category>
+        <brand>Dell</brand>
+        <name>Dell Intel Core i5 12th Gen</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>laptop5.jpg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>21</id>
+        <category>laptop</category>
+        <brand>HP</brand>
+        <name>HP Pavilion 14-dy0208TU i3 11th Gen</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>laptop6.jpg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>22</id>
+        <category>home</category>
+        <brand>Samsung</brand>
+        <name>Samsung 6.5kg FrontLoad Washing Machine</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>home1.webp</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>23</id>
+        <category>home</category>
+        <brand>Whirlpool</brand>
+        <name>Whirlpool 7.5kg TopLoad Washing Machine</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>home2.jpg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>24</id>
+        <category>home</category>
+        <brand>LG</brand>
+        <name>LG 6 1.5Ton 5 Star AI Dual Inverter Split AC</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>home3.webp</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>25</id>
+        <category>home</category>
+        <brand>Voltas</brand>
+        <name>Voltas Executive 1.5Ton Split AC</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>home4.webp</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>26</id>
+        <category>home</category>
+        <brand>Electrolux</brand>
+        <name>Electrolux 700 600 Litres French Door Refrigerator</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>home5.jpg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>27</id>
+        <category>home</category>
+        <brand>LG</brand>
+        <name>LG 260 Litres 2 Star Double Door Refrigerator</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>home6.webp</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>28</id>
+        <category>audio</category> 
+        <brand>JBL</brand>
+        <name>JBL Wave 100 TWS Earbuds</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>audio1.jpg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>29</id>
+        <category>audio</category>
+        <brand>Jabra</brand>
+        <name>Jabra Elite 2 TWS Earbuds</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>audio2.jpg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>30</id>
+        <category>audio</category>
+        <brand>Apple</brand>
+        <name>Apple AirPods Pro 2nd Gen</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>audio3.jpeg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>31</id>
+        <category>audio</category>
+        <brand>JBL</brand>
+        <name>JBL Flip 5 20W Portable Bluetooth Speaker</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>audio4.png</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>32</id>
+        <category>audio</category>
+        <brand>Carvaan</brand>
+        <name>Saregama Carvaan 6W Portable Speaker</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>audio5.png</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+    <product>
+        <id>33</id>
+        <category>audio</category>
+        <brand>Apple</brand>
+        <name>Apple HomePod (2nd Gen)</name>
+        <mrp>96,000</mrp>
+        <offerprice>46,130</offerprice>
+        <image>audio6.jpeg</image>
+        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <qty>10</qty>
+    </product>
+</products>
