@@ -34,8 +34,9 @@
                         <a class="nav-link dropdown-toggle" href="Products.html" role="button"
                             data-bs-toggle="dropdown">Products</a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="Products.html?dataType=mobile">Phones and wearables</a></li>
-                            <li><a class="dropdown-item" href="Products.html?dataType=Telivision">Telivisions & Accessories</a></li>
+                            <li><a class="dropdown-item" href="Products.html?dataType=mobile">Mobiles</a></li>
+                            <li><a class="dropdown-item" href="Products.html?dataType=Telivision">Telivisions &
+                                    Accessories</a></li>
                             <li><a class="dropdown-item" href="Products.html?dataType=laptop">Laptops & Tablets</a></li>
                             <li><a class="dropdown-item" href="Products.html?dataType=home">Home Appliances</a></li>
                             <li><a class="dropdown-item" href="#">Audio & Video</a></li>
@@ -51,39 +52,41 @@
                         <a class="nav-link" href="#">Contact us</a>
                     </li>
                 </ul>
-            <i class="fa fa-search ms-3 text-center" style="font-size:27px"></i>
-            <i class="fa fa-shopping-cart ms-3 text-center" style="font-size:27px"></i>
-            <i class="fa fa-user-circle ms-3 me-2 text-center" data-toggle="modal" data-target="#myModal" style="font-size:27px"></i>
+                <i class="fa fa-search ms-3 text-center" style="font-size:27px"></i>
+                <i class="fa fa-shopping-cart ms-3 text-center" style="font-size:27px"></i>
+                <i class="fa fa-user-circle ms-3 me-2 text-center" data-toggle="modal" data-target="#myModal"
+                    style="font-size:27px"></i>
+            </div>
         </div>
-    </div>
     </nav>
     <!-- Navbar End -->
 
 
     <div class="products"></div>
-   <script>
-   let http = new XMLHttpRequest();
-    http.open('get', 'data/blog.json', true);
-    http.send();
-    http.onload = function(){
-       if(this.readyState == 4 && this.status == 200){
-          let products = JSON.parse(this.responseText);
-          let output = "";
-          for(let item of products){
-             output += `
-                <div class="product">
-                   <img src="${item.image}" alt="${item.description}" height="300" width="300">
-                   <p class="title">${item.title}</p>
-                   <p class="description">${item.description}</p>
-                   <p class="price">
-                      <span>${item.price}</span>
-                      <span>€</span>
-                   </p>
-                   <p class="cart">Add to cart <i class="bx bx-cart-alt"></i></p>
-                </div>
-             `;
-          }
-          document.querySelector(".products").innerHTML = output;
-       }
-    }</script>
+    <script>
+        let http = new XMLHttpRequest();
+         http.open('get', 'data/blog.json', true);
+         http.send();
+         http.onload = function(){
+            if(this.readyState == 4 && this.status == 200){
+               let products = JSON.parse(this.responseText);
+               let output = "";
+               for(let item of products){
+                  output += `
+                     <div class="product">
+                        <img src="${item.image}" alt="${item.description}" height="300" width="300">
+                        <p class="title">${item.title}</p>
+                        <p class="description">${item.description}</p>
+                        <p class="price">
+                           <span>${item.price}</span>
+                           <span>€</span>
+                        </p>
+                        <p class="cart">Add to cart <i class="bx bx-cart-alt"></i></p>
+                     </div>
+                  `;
+               }
+               document.querySelector(".products").innerHTML = output;
+            }
+         }</script>
+
 </body>

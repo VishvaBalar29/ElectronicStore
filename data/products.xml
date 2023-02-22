@@ -67,39 +67,6 @@
         <qty>10</qty>
     </product>
     <product>
-        <id>7</id>
-        <category>mobile</category>
-        <brand>Apple</brand>
-        <name>iPhone 13 pro</name>
-        <mrp>1,76,000</mrp>
-        <offerprice>96,130</offerprice>
-        <image>mobile7.jpeg</image>
-        <description>The Apple iPhone 14 Pro Max 5G comes with a 6.7-inch ProMotion technology touchscreen, features Crash Detection and a new Truedepth 48-megapixel front camera with Photonic Engine, an extra hour of video playback compared to last year's model and a new Action mode</description>
-        <qty>10</qty>
-    </product>
-    <product>
-        <id>8</id>
-        <category>mobile</category>
-        <brand>Vivo</brand>
-        <name>Vivo Y75</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>mobile8.jpg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
-    </product>
-    <product>
-        <id>9</id>
-        <category>mobile</category>
-        <brand>Samsung</brand>
-        <name>Samsung flip</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>mobile9.png</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
-    </product>
-    <product>
         <id>10</id>
         <category>Telivision</category>
         <brand>Sansui</brand>
