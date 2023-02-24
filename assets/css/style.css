@@ -8,7 +8,6 @@
     font-family: 'Playfair Display', serif;
     font-family: 'Poppins', sans-serif;
     font-family: 'Ubuntu', sans-serif;
-
     margin: 0;
     padding: 0;
 }
@@ -30,5 +29,63 @@ nav .nav-item {
   background-color: white;
 }
 .collection img:hover{
-  background-color: #74AFBE;
+  background-color: rgb(136, 160, 165);
 }
+
+.contactForm .form-control {
+  border: none;
+  border-bottom: 1px solid black;
+  padding: 0;
+  font-size: 16px
+}
+
+.form-control {
+  height: 52px;
+  background: transparent;
+  display: block;
+    width: 100%;
+}
+
+.form-group{
+  margin-bottom: 1rem;
+}
+.info-wrap .dbox{
+  margin-bottom: 25px;
+}
+.form-group .form-control{
+  height: 48px;
+  margin-bottom: 23px;
+}
+.info-wrap .dbox p {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.info-wrap .dbox p a {
+  color: rgba(141, 135, 135, 0.3);
+}
+
+.info-wrap .dbox .icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+.info-wrap .dbox .icon span {
+  font-size: 20px;
+  color: #000;
+}
+.pl-3, .px-3 {
+  padding-left: 1rem !important;
+}
+section .ftco-section{
+  color: black;
+}
+
+
+footer a i,footer p a{
+  color: black;
+}
+footer p a{
+  text-decoration: none;
+}
+
