@@ -137,7 +137,7 @@
   </div>
   <!-- Footer End -->
 
-
+<script src="assets/bootstrap-5.2.3-dist/bootstrap-5.2.3-dist/js/bootstrap.min.js"></script>
   <script>
     if (window.XMLHttpRequest) {
       xmlhttp = new XMLHttpRequest();
@@ -195,22 +195,38 @@
                       <i class="fa fa-star"></i>
                     </div>
                   </div>
+    
 
-                </div>
-     <button class='btn btn-outline-dark d-block mx-auto'><a class='text-decoration-none text-danger' href='productPreview.html?dataType=${xmlDoc.getElementsByTagName('id')[i].childNodes[0].nodeValue}' class='' >View Product</a></button>
+                  <!-- Button trigger modal -->
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalid${xmlDoc.getElementsByTagName('id')[i].childNodes[0].nodeValue}">View More</button>
+
+                  <!-- Modal -->
+                  <div class="modal fade" id="modalid${xmlDoc.getElementsByTagName('id')[i].childNodes[0].nodeValue}" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalLongTitle">${xmlDoc.getElementsByTagName('name')[i].childNodes[0].nodeValue}</h5>
+                          <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                           </button>
+                        </div>
+
+                        <div class="modal-body">
+                          <p>${xmlDoc.getElementsByTagName('description')[i].childNodes[0].nodeValue}</p>
+                        </div>
+
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                      </div>
+                    </div>
+                  </div>
 </div>
- </div>
-
-                </div>
-              </div>
-            </div>`
-            $(document).ready(function(){
-                                            $('body').hide().fadeIn();
-                                        });
-    }
-  </script>
-
-  <script src="assets/js/js.js"></script>
+</div>
+</div>
+</div>
+</div>`
+}
+</script>
+<script src="assets/js/js.js"></script>
 </body>
-
 </html>
