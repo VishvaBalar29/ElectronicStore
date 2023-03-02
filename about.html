@@ -20,71 +20,76 @@
 </head>
 
 <body>
+  <style>
+    .service{
+  box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
+  padding: 30px;
+  border-radius: 2em;
+  text-align: center;
+}
+.service:hover{
+  box-shadow: 0 5px 10px rgb(0 0 0 / 70%);
+}
+.team:hover{
+  box-shadow: 0 5px 10px rgb(0 0 0 / 300%);
+}
+  </style>
     <!-- navbar starts here -->
-    <nav class="navbar navbar-expand-lg navbar-light">
-        <div class="container-fluid text-center">
-            <a class="navbar-brand" href="#" style="color:#265375"><b
-                    style="font-size: 28px;color: #173954;">Gadget</b>zone</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
-                aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse justify-content-center" id="navbarNavDropdown">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0 m-auto ">
-                    <li class="nav-item mx-auto">
-                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="Products.html" role="button"
-                            data-bs-toggle="dropdown">Products</a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="Products.html?dataType=mobile">Mobiles</a></li>
-                            <li><a class="dropdown-item" href="Products.html?dataType=Telivision">Telivisions &
-                                    Accessories</a></li>
-                            <li><a class="dropdown-item" href="Products.html?dataType=laptop">Laptops & Tablets</a></li>
-                            <li><a class="dropdown-item" href="Products.html?dataType=home">Home Appliances</a></li>
-                            <li><a class="dropdown-item" href="Products.html?dataType=audio">Audio & Video</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item mx-auto">
-                        <a class="nav-link" href="blog.html">Blog</a>
-                    </li>
-                    <li class="nav-item mx-auto">
-                        <a class="nav-link" href="#">About</a>
-                    </li>
-                    <li class="nav-item mx-auto">
-                        <a class="nav-link" href="inquiry.html">Contact us</a>
-                    </li>
-                </ul>
-                <i class="fa fa-search ms-3 text-center" style="font-size:27px"></i>
-                <i class="fa fa-shopping-cart ms-3 text-center" style="font-size:27px"></i>
-                <i class="fa fa-user-circle ms-3 me-2 text-center" data-toggle="modal" data-target="#myModal"
-                    style="font-size:27px"></i>
-            </div>
-        </div>
-    </nav>
-    <!-- Navbar End -->
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container-fluid text-center ps-3">
+      <a class="navbar-brand" href="#" style="color:black;font-size: 25px;"><b
+          style="font-size: 35px;color: black;">Gadget</b>zone</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+        aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-center" id="navbarNavDropdown">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0 m-auto ">
+          <li class="nav-item mx-auto">
+            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="Products.html" role="button"
+              data-bs-toggle="dropdown">Products</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="Products.html?dataType=mobile">Mobiles</a></li>
+              <li><a class="dropdown-item" href="Products.html?dataType=Telivision">Telivisions &
+                  Accessories</a></li>
+              <li><a class="dropdown-item" href="Products.html?dataType=laptop">Laptops & Tablets</a></li>
+              <li><a class="dropdown-item" href="Products.html?dataType=home">Home Appliances</a></li>
+              <li><a class="dropdown-item" href="Products.html?dataType=audio">Audio & Video</a></li>
+            </ul>
+          </li>
+          <li class="nav-item mx-auto">
+            <a class="nav-link" href="blog.html">Blog</a>
+          </li>
+          <li class="nav-item mx-auto">
+            <a class="nav-link" href="about.html">About</a>
+          </li>
+          <li class="nav-item mx-auto">
+            <a class="nav-link" href="inquiry.html">Contact us</a>
+          </li>
+        </ul>
+        <i class="fa fa-search ms-3 text-center" style="font-size:27px"></i>
+        <i class="fa fa-shopping-cart ms-3 text-center" style="font-size:27px"></i>
+        <i class="fa fa-user-circle ms-3 me-2 text-center" data-toggle="modal" data-target="#myModal"
+          style="font-size:27px"></i>
+      </div>
+    </div>
+  </nav>
+  <!-- Navbar End -->
 
     <main>
         <div class="container-fluid pt-5 pb-5" style="background-color: rgba(114, 109, 109, 0.2);">
             <h3 class="text-center mb-5">About Us</h3>
             <div class="row">
                 <div class="col-md-7 col-sm-12">
-                    <!-- <img src="Images/about1.webp" class="rounded float-end" alt="Not Found" width="618px" height="415px"> -->
                     <img src="Images/abc.jpg" class="rounded d-block mx-auto" style="object-fit: contain;" alt="Not Found" width="100%" height="415px">
                 </div>
                 <div class="col-md-5 col-sm-12 d-block my-auto">
-                    <p class="" style="line-height: 1.8rem;font-size: 15px;color: #454444;">Lorem ipsum dolor sit amet
-                        consectetur adipisicing elit. Iusto tenetur molestias, ducimus dolor aliquam accusamus?
-                        Recusandae quaerat aspernatur ducimus. Porro, ex tenetur? Earum, quod id! Lorem ipsum dolor sit,
-                        amet consectetur adipisicing elit. Dolor delectus non quo ad facere</p>
+                    <p class="" style="line-height: 1.8rem;font-size: 15px;color: #454444;">The best product to buy, an innovative product that consistently outperforms peers and outstanding service that makes every customer smile.An environment in which individuals can constantly learn, grow and prosper.</p>
                     <br>
-                    <p class="" style="line-height: 1.8rem;font-size: 15px;color: #454444;">Lorem ipsum dolor sit amet
-                        consectetur adipisicing elit. Iusto tenetur molestias, ducimus dolor aliquam accusamus?
-                        Recusandae quaerat aspernatur ducimus. Porro, ex tenetur? Earum, quod id! Lorem ipsum dolor sit,
-                        amet consectetur adipisicing elit. Dolor delectus non quo ad facere, ab optio voluptates
-                        consectetur quae eius veritatis? Dicta nisi laudantium corrupti harum illum officia eum
-                        corporis!</p>
+                    <p class="" style="line-height: 1.8rem;font-size: 15px;color: #454444;">We do not compromise on processes, components and technologies to deliver outstanding performance. Our in-house Research & Development is the backbone of our innovations. Equipped with high-end design and analysis software such as Solid Modelling, CATIA, FEA and Mold Flow, our skilled team creates products to internationally certified standards.Efficient solutions that drive sustainability, backed by a nationwide service network.</p>
                 </div>
             </div>
         </div> 
@@ -93,7 +98,7 @@
             <h3 class="text-center mb-5">Our Services</h3>
             <div class="row ms-3 me-3 pb-3">
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="card mb-3 service" style="max-width: 540px;border-radius:1rem;">
+                    <div class="card mb-3 service" style="max-width: 540px;border-radius:1rem;background-color: #e3e2e2;">
                         <div class="row g-0">
                           <div class="col-md-3">
                             <img src="Images/delivery.png" class="img-fluid rounded-start text-center" alt="Not found" height="60px" width="60px">
@@ -108,7 +113,7 @@
                       </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="card mb-3 service" style="max-width: 540px;border-radius:1rem;">
+                    <div class="card mb-3 service" style="max-width: 540px;border-radius:1rem;background-color: #e3e2e2">
                         <div class="row g-0">
                           <div class="col-md-3">
                             <img src="Images/24support.png" class="img-fluid rounded-start" alt="Not found" height="60px" width="60px">
@@ -116,14 +121,14 @@
                           <div class="col-md-9">
                             <div class="card-body" style="padding: 0px;">
                               <h6 class="card-title">24X7 Support</h6>
-                              <p class="card-text" style="font-size: 13px;">This is a wider card with supporting text </p>
+                              <p class="card-text" style="font-size: 13px;">24X7 help on call or AI Chat.Exclusive easy assitance.</p>
                             </div>
                           </div>
                         </div>
                       </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="card mb-3 service" style="max-width: 540px;border-radius:1rem;">
+                    <div class="card mb-3 service" style="max-width: 540px;border-radius:1rem;background-color: #e3e2e2">
                         <div class="row g-0">
                           <div class="col-md-3">
                             <img src="Images/installment.png" class="img-fluid rounded-start" alt="Not found" height="60px" width="60px">
@@ -138,7 +143,7 @@
                       </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="card mb-3 service" style="max-width: 540px;border-radius:1rem;">
+                    <div class="card mb-3 service" style="max-width: 540px;border-radius:1rem;background-color: #e3e2e2">
                         <div class="row g-0">
                           <div class="col-md-3">
                             <img src="Images/gift.png" class="img-fluid rounded-start" alt="Not found" height="60px" width="60px">
@@ -160,24 +165,24 @@
             <div class="row">
                 <div class="col-lg-1 col-md-12"></div>
                 <div class="col-lg-2 col-md-6 col-sm-12 text-center mx-auto">
-                    <img src="Images/team1.jpg" alt="Not Found" class="rounded-circle text-center" height="191px"
+                    <img src="Images/team1.jpg" alt="Not Found" class="rounded-circle team" height="191px"
                         width="200px">
                     <p class="text-center" style="margin-top: 20px;">John Doe</p><br>
                 </div>
                 <div class="col-lg-2 col-md-6 col-sm-12 text-center mx-auto">
-                    <img src="Images/team2.jpg" alt="Not Found" class="rounded-circle" height="191px" width="200px">
+                    <img src="Images/team2.jpg" alt="Not Found" class="rounded-circle team" height="191px" width="200px">
                     <p class="text-center" style="margin-top: 20px;">John Doe</p><br>
                 </div>
                 <div class="col-lg-2 col-md-6 col-sm-12 text-center mx-auto">
-                    <img src="Images/team3.jpg" alt="Not Found" class="rounded-circle" height="191px" width="200px">
+                    <img src="Images/team3.jpg" alt="Not Found" class="rounded-circle team" height="191px" width="200px">
                     <p class="text-center" style="margin-top: 20px;">John Doe</p><br>
                 </div>
                 <div class="col-lg-2 col-md-6 col-sm-12 text-center mx-auto">
-                    <img src="Images/team4.jpg" alt="Not Found" class="rounded-circle" height="191px" width="200px">
+                    <img src="Images/team4.jpg" alt="Not Found" class="rounded-circle team" height="191px" width="200px">
                     <p class="text-center" style="margin-top: 20px;">John Doe</p><br>
                 </div>
                 <div class="col-lg-2 col-md-6 col-sm-12 text-center mx-auto">
-                    <img src="Images/team5.jpg" alt="Not Found" class="rounded-circle" height="191px" width="200px">
+                    <img src="Images/team5.jpg" alt="Not Found" class="rounded-circle team" height="191px" width="200px">
                     <p class="text-center" style="margin-top: 20px;">John Doe</p><br>
                 </div>
                 

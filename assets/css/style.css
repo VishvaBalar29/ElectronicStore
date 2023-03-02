@@ -14,12 +14,7 @@ nav .nav-item {
     padding: 7px 23px;
     font-size: 18px;
 }
-.card{
-  padding: 1.5em .5em .5em;
-  border-radius: 2em;
-  text-align: center;
-  box-shadow: 0 5px 10px rgba(0,0,0,.2);
-}
+
 .collection img{
   object-fit: contain;
   height: 148px;
