@@ -5,10 +5,10 @@
         <category>mobile</category>
         <brand>Apple</brand>
         <name>iPhone 14 Pro</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
+        <mrp>1,19,990</mrp>
+        <offerprice>1,14,990</offerprice>
         <image>mobile1.jpeg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <description>Display: 6.1 inches (15.54 cm) OLED Display, Memory: 128GB ROM, Processor: A16 Bionic Chip, Hexa Core, Camera: 48 MP + 12 MP + 12 MP Triple Rear  12 MP Front Camera, Battery: Qi Wireless Charging Up to 7.5W, Security (Lock): Facial Lock</description>
         <qty>10</qty>
     </product>
     <product>
@@ -16,318 +16,319 @@
         <category>mobile</category>
         <brand>Samsung</brand>
         <name>Samsung Galaxy S22 Ultra</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
+        <mrp>1,18,999</mrp>
+        <offerprice>1,10,999</offerprice>
         <image>mobile2.jpg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
+        <description>Display: 6.8 inches (17.3 cm), AMOLED, 120 Hz Refresh Rate,Memory: 12GB RAM, 512GB ROM, Processor: Qualcomm Snapdragon, Octa Core, 2 GHz, Camera: 12 MP + 108 MP + 10 MP + 10 MP Quad Rear 40 MP Front Camera, Battery: 5000 mAh with 45W Fast Charging, Security (Lock): Password | Pattern | PIN | Fingerprint Sensor | Face Unlock</description>
+        <qty>5</qty>
     </product>
     <product>
         <id>3</id>
         <category>mobile</category>
         <brand>Apple</brand>
         <name>iPhone 13</name>
-        <mrp>1,36,000</mrp>
-        <offerprice>86,130</offerprice>
+        <mrp>79,999</mrp>
+        <offerprice>71,999</offerprice>
         <image>mobile3.jpg</image>
-        <description>New iPhone 14 Plus has a supersized Super Retina XDR display. Longest battery life ever. A new Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light</description>
-        <qty>10</qty>
+        <description>Display: 6.1 inches (15.4 cm), Super Retina XDR OLED, Memory: 128GB ROM, Processor: Apple A15 Bionic, Hexa Core, Camera: 12 MP + 12 MP Dual Rear12 MP Front Camera, Battery: 15W Wireless Charging, Security (Lock): Password | PIN | Face Unlock</description>
+        <qty>8</qty>
     </product>
     <product>
         <id>4</id>
         <category>mobile</category>
-        <brand>Apple</brand>
+        <brand>OnePlus</brand>
         <name>OnePlus Nord CE</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
+        <mrp>21,999</mrp>
+        <offerprice>18,999</offerprice>
         <image>mobile4.jpg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
+        <description>Display: 6.59 inches (16.73 cm), LCD, 120 Hz Refresh Rate, Memory: 6GB RAM, 128GB ROM, Processor: Qualcomm Snapdragon, Octa Core, Camera: 64 MP + 2 MP + 2 MP Triple Rear 16 MP Front Camera, Battery: 5000 mAh with 33W Fast Charging, Security (Lock): Password | Pattern | PIN | Fingerprint Sensor | Face Unlock</description>
+        <qty>6</qty>
     </product>
     <product>
         <id>5</id>
         <category>mobile</category>
-        <brand>Apple</brand>
+        <brand>OnePlus</brand>
         <name>OnePlus 10T 5G</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
+        <mrp>49,990</mrp>
+        <offerprice>46,990</offerprice>
         <image>mobile5.jpg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
+        <description>Display: 6.7 inches (17.02 cm), Fluid AMOLED, 120 Hz Refresh Rate, Memory: 8GB RAM, 128GB ROM, Processor: Snapdragon 8+ Gen 1 Mobile Platform, Octa Core, Camera: 50MP + 8MP + 2MP Triple Rear 16MP Front Camera, Battery: 4800 mAh with 150W Fast Charging, Lock: In-display Fingerprint | Facial Lock</description>
+        <qty>3</qty>
     </product>
     <product>
         <id>6</id>
         <category>mobile</category>
-        <brand>Apple</brand>
+        <brand>Oppo</brand>
         <name>Oppo F21 Pro</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
+        <mrp>20,999</mrp>
+        <offerprice>15,999</offerprice>
         <image>mobile6.jpg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <description>Display: 6.43 inches (16.33 cm), AMOLED, 90 Hz Refresh Rate, Memory: 8GB RAM, 128GB ROM, Processor: Qualcomm Snapdragon, Octa Core, 2.4 GHz, Camera: 64 MP + 2 MP + 2 MP Triple Rear 32 MP Front Camera, Battery: 4500 mAh with 33W Fast Charging, Headphone Jack: 3.5mm Headphone Jack</description>
+        <qty>15</qty>
+    </product>
+    <product>
+        <id>7</id>
+        <category>Telivision</category>
+        <brand>Sansui</brand>
+        <name>Sansui 55 inch QLED</name>
+        <mrp>36,999</mrp>
+        <offerprice>32,999</offerprice>
+        <image>Tv1.jpg</image>
+        <description>Display: QLED Ultra HD 4K, 3840 x 2160 pixels, 60 Hz Refresh Rate, Connectivity: 3 HDMI | 2 USB | Wi-Fi, Operating System: Google, Apps: Netflix, Prime Video, YouTube, Hotstar, Sound: 20W Speaker, Dolby Atmos, USP: Bezel Less Display, A+ Grade Panel</description>
+        <qty>9</qty>
+    </product>
+    <product>
+        <id>8</id>
+        <category>Telivision</category>
+        <brand>Samsung</brand>
+        <name>Samsung Series 4 32 inch</name>
+        <mrp>33,490</mrp>
+        <offerprice>39,990</offerprice>
+        <image>Tv2.webp</image>
+        <description>Display: LED HD Ready, 1366 x 768 pixels, 60 Hz Refresh Rate, Connectivity: 2 HDMI | 1 USB | Wi-Fi,Operating System: Tizen, Apps: Sony Liv, Eros Now, Jio Cinema, Gaana, Sound: 20 W Speaker, Dolby Digital Plus, USP: Mega Contrast Enhancer, Game Mode</description>
         <qty>10</qty>
+    </product>
+    <product>
+        <id>9</id>
+        <category>Telivision</category>
+        <brand>Mi</brand>
+        <name>Mi 5A 32 inch</name>
+        <mrp>15,990</mrp>
+        <offerprice>11,990</offerprice>
+        <image>Tv3.webp</image>
+        <description>Display: LED HD Ready, 1366 x 768 pixels, 60 Hz Refresh Rate, Connectivity: 2 HDMI | 2 USB | Wi-Fi, Operating System: Android, Apps: Netflix, Prime Video, Disney+ Hotstar, Sound: 20 W Speaker, Dolby Audio, USP: Bezel Less Display, Vivid Picture Engine, IMDb Integration</description>
+        <qty>4</qty>
     </product>
     <product>
         <id>10</id>
         <category>Telivision</category>
-        <brand>Sansui</brand>
-        <name>Sansui 55 inch QLED</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>Tv1.jpg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
+        <brand>Oneplus</brand>
+        <name>Oneplus Y series 65 inch</name>
+        <mrp>61,990</mrp>
+        <offerprice>59,499</offerprice>
+        <image>Tv-4.jpg</image>
+        <description>Display: LED 4K Ultra HD, 3840 x 2160 pixels, 60 Hz Refresh Rate, Connectivity: 3 HDMI | 2 USB | Wi-Fi, Operating System: Android, Apps: Oxygen Play, YouTube, Prime Video, Netflix, Sound: 30 W Speaker, Dolby Audio, USP: Google Assistant</description>
+        <qty>6</qty>
     </product>
     <product>
         <id>11</id>
         <category>Telivision</category>
-        <brand>Samsung</brand>
-        <name>Samsung Series 4 32 inch</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>Tv2.webp</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
+        <brand>Acer</brand>
+        <name>Acer I Series 43 inch</name>
+        <mrp>23,999</mrp>
+        <offerprice>21,990</offerprice>
+        <image>Tv5.jpg</image>
+        <description>Display: LED Ultra HD 4K, 3840 x 2160 pixels, 60 Hz Refresh Rate, Connectivity: 3 HDMI | 2 USB | Wi-Fi, Operating System: Android, Apps: Netflix, YouTube, Prime Video, Amazon Music, Hotstar, Sound: 30 W Speaker, Dolby Audio, USP: UHD Upscaling, Built-in Chromecast, Intelligent Frame Stabilization Engine</description>
+        <qty>2</qty>
     </product>
     <product>
         <id>12</id>
         <category>Telivision</category>
-        <brand>Mi</brand>
-        <name>Mi 5A 32 inch</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>Tv3.webp</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
+        <brand>Realme</brand>
+        <name>Realme 32 inch HD LED Smart TV</name>
+        <mrp>15,999</mrp>
+        <offerprice>13,999</offerprice>
+        <image>Tv6.jpg</image>
+        <description>Display: LED HD Ready, 1366 x 768 pixels, 60 Hz Refresh Rate, Connectivity: 3 HDMI | 2 USB | Wi-Fi, Operating System: Android, Apps: Netflix, YouTube, Prime Video, Play Store, Sound: 24 W Speaker, Dolby Audio, USP: Chroma Boost Picture Engine, Built-in Chromecast</description>
+        <qty>2</qty>
     </product>
     <product>
         <id>13</id>
-        <category>Telivision</category>
-        <brand>Oneplus</brand>
-        <name>Oneplus Y series</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>Tv-4.jpg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
+        <category>laptop</category>
+        <brand>Lenovo</brand>
+        <name>Lenovo IdeaPad Ryzen 3</name>
+        <mrp>38,990</mrp>
+        <offerprice>35,990</offerprice>
+        <image>laptop1.webp</image>
+        <description>Display: 39.62 cms (15.6 inches), FHD TN LCD, Memory: 8GB DDR4 RAM, 512GB SSD ROM, Processor: AMD Ryzen 3, OS: Windows 11 Home, Graphics: AMD Radeon, Included Software: Lenovo Utility, Lenovo Vantage, McAfee LiveSafe, Warranty: 1 Year Onsite</description>
+        <qty>5</qty>
     </product>
     <product>
         <id>14</id>
-        <category>Telivision</category>
+        <category>laptop</category>
         <brand>Acer</brand>
-        <name>Acer I Series 43 inch</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>Tv5.jpg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>1 0</qty>
+        <name>Acer Aspire i5 12th Gen</name>
+        <mrp>59,990</mrp>
+        <offerprice>57,990</offerprice>
+        <image>laptop2.png</image>
+        <description>Display: 39.62 cms (15.6 inches), IPS Display, Memory: 8GB DDR4 RAM, 512GB SSD ROM, Processor: Intel Core i5 12th Generation, OS: Windows 11 Home, Graphics: NVIDIA NVIDIA GeForce RTX 2050, Warranty: 1 Year Onsite</description>
+        <qty>6</qty>
     </product>
     <product>
         <id>15</id>
-        <category>Telivision</category>
-        <brand>Realme</brand>
-        <name>Realme 32 inch HD LED Smart TV</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>Tv6.jpg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
+        <category>laptop</category>
+        <brand>Apple</brand>
+        <name>Apple MacBook Pro</name>
+        <mrp>85,999</mrp>
+        <offerprice>83,999</offerprice>
+        <image>laptop3.jpeg</image>
+        <description>Processor: Apple M1, Display: 33.78 cms (13.3 inches) LED-Backlit, Memory: 8GB DDR4 RAM, 256GB SSD ROM, OS: macOS Big Sur, Warranty: 1 Year Onsite</description>
+        <qty>3</qty>
     </product>
     <product>
         <id>16</id>
         <category>laptop</category>
-        <brand>Lenovo</brand>
-        <name>Lenovo IdeaPad Ryzen 3</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>laptop1.webp</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
+        <brand>Assus</brand>
+        <name>ASUS TUF Ryzen 5</name>
+        <mrp>63,990</mrp>
+        <offerprice>61,990</offerprice>
+        <image>laptop4.jpg</image>
+        <description>Display: 39.62 cms (15.6 inches) FHD IPS, Memory: 8GB DDR4 RAM, 512GB SSD ROM, Processor: AMD Ryzen 5, OS: Windows 11, Graphics: NVIDIA GeForce GTX 1650, Included Software: New Microsoft 365 (1-Month Trial), Warranty: 1 Year Onsite</description>
+        <qty>6</qty>
     </product>
     <product>
         <id>17</id>
         <category>laptop</category>
-        <brand>Acer</brand>
-        <name>Acer Aspire i5 12th Gen</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>laptop2.png</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
+        <brand>Dell</brand>
+        <name>Dell i5 12th Gen</name>
+        <mrp>55,999</mrp>
+        <offerprice>51,999</offerprice>
+        <image>laptop5.jpg</image>
+        <description>Display: 39.2 cms (15.6 inches), FHD, Memory : 8GB DDR4 RAM, 512 SSD ROM, Processor: Intel Core i5 12th Generation, OS : Windows 11, Graphics : Intel UMA, Included Software: MS Office 2021, Warranty: 1 Year Onsite</description>
+        <qty>7</qty>
     </product>
     <product>
         <id>18</id>
         <category>laptop</category>
-        <brand>Apple</brand>
-        <name>Apple MacBook Pro</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>laptop3.jpeg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
+        <brand>HP</brand>
+        <name>HP Pavilion 14 i3 11th Gen</name>
+        <mrp>51,990</mrp>
+        <offerprice>49,990</offerprice>
+        <image>laptop6.jpg</image>
+        <description>Display: 35.56 cms (14 inches), FHD IPS, Memory: 8GB DDR4 RAM, 256GB SSD ROM, Processor: Intel Core i3 11th Generation, OS: Windows 11 Home
+Graphics: Intel UHD, Included Software: MS Office Home Student 2019, Warranty: 1 Year Onsite</description>
+        <qty>3</qty>
     </product>
     <product>
         <id>19</id>
-        <category>laptop</category>
-        <brand>Assus</brand>
-        <name>ASUS TUF Ryzen 5</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>laptop4.jpg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
+        <category>home</category>
+        <brand>Samsung</brand>
+        <name>6.5kg FrontLoad Washing Machine</name>
+        <mrp>30,490</mrp>
+        <offerprice>28,490</offerprice>
+        <image>home1.webp</image>
+        <description>6.5 Kg, Front Load, Fully Automatic, BEE 5 Star Rating, Ideal for 4-6 Family Size, 12 Wash Programs, Steam Hygiene, Digital Inverter Motor, 24 Months Warranty</description>
+        <qty>3</qty>
     </product>
     <product>
         <id>20</id>
-        <category>laptop</category>
-        <brand>Dell</brand>
-        <name>Dell i5 12th Gen</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>laptop5.jpg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
+        <category>home</category>
+        <brand>Whirlpool</brand>
+        <name>7.5kg TopLoad Washing Machine</name>
+        <mrp>22,999</mrp>
+        <offerprice>20,999</offerprice>
+        <image>home2.jpg</image>
+        <description>7.5kg, Top Load, Fully Automatic, BEE 5 Star Rating, Ideal for 6-8 Family Size, 12 Wash Programs, Power Scrub Technology, Spiro Wash, Hard Water Wash Technology, 24 Months Warranty, 10 Years Motor Warranty</description>
+        <qty>4</qty>
     </product>
     <product>
         <id>21</id>
-        <category>laptop</category>
-        <brand>HP</brand>
-        <name>HP Pavilion 14 i3 11th Gen</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>laptop6.jpg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <category>home</category>
+        <brand>LG</brand>
+        <name>LG 6 Inverter Split AC</name>
+        <mrp>49,990</mrp>
+        <offerprice>45,990</offerprice>
+        <image>home3.webp</image>
+        <description>1.5 Ton AI Plus Dual Inverter Smart AC, 5 Star Rating, Copper Condenser, 1 Year Comprehensive Warranty, 10 Years Compressor Warranty, For Rooms up to 180 sqft, Power Consumption: 1130 Watts, Refrigerant: R32, HD Filter with Anti Virus Protection</description>
         <qty>10</qty>
     </product>
     <product>
         <id>22</id>
         <category>home</category>
-        <brand>Samsung</brand>
-        <name>Samsung 6.5kg FrontLoad Washing Machine</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>home1.webp</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
+        <brand>Voltas</brand>
+        <name>Voltas Executive Split AC</name>
+        <mrp>40,990</mrp>
+        <offerprice>39,990</offerprice>
+        <image>home4.webp</image>
+        <description>1.5 Ton Adjustable Inverter AC, 5 Star Rating, Copper Condenser, 1 Year Comprehensive Warranty, 10 Years Compressor Warranty, For Rooms up to 180 sqft, Power Consumption: 1455 Watts, Refrigerant: R32, Turbo Cooling Mode, Anti Microbial Protection</description>
+        <qty>7</qty>
     </product>
     <product>
         <id>23</id>
         <category>home</category>
-        <brand>Whirlpool</brand>
-        <name>Whirlpool 7.5kg TopLoad Washing Machine</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>home2.jpg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
+        <brand>Electrolux</brand>
+        <name> French Door Refrigerator</name>
+        <mrp>1,05,999</mrp>
+        <offerprice>1,03,999</offerprice>
+        <image>home5.jpg</image>
+        <description>461 Litres, Inverter Compressor, No. of Doors: 4, Ideal for Large Family Size, TasteLockPlus Crisper, Holiday Mode, EvenTemp Technology, 1 Year Warranty on Product</description>
+        <qty>5</qty>
     </product>
     <product>
         <id>24</id>
         <category>home</category>
         <brand>LG</brand>
-        <name>LG 6 1.5Ton 5 Star AI Dual Inverter Split AC</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>home3.webp</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <name>LG Double Door Refrigerator</name>
+        <mrp>24,990</mrp>
+        <offerprice>23,990</offerprice>
+        <image>home6.webp</image>
+        <description>260 Litres, 2 Star Rating, Smart Inverter Compressor, No. of Doors: 2, Ideal for 3 Family Size, Stabilizer Free Operation, Humidity Controller, Anti-Bacterial Gasket, 1 Year Warranty on Product, 10 Years Compressor Warranty</description>
         <qty>10</qty>
     </product>
     <product>
         <id>25</id>
-        <category>home</category>
-        <brand>Voltas</brand>
-        <name>Voltas Executive 1.5Ton Split AC</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>home4.webp</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
-    </product>
-    <product>
-        <id>26</id>
-        <category>home</category>
-        <brand>Electrolux</brand>
-        <name>Electrolux 700 600 Litres French Door Refrigerator</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>home5.jpg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
-    </product>
-    <product>
-        <id>27</id>
-        <category>home</category>
-        <brand>LG</brand>
-        <name>LG 260 Litres 2 Star Double Door Refrigerator</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>home6.webp</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
-    </product>
-    <product>
-        <id>28</id>
         <category>audio</category> 
         <brand>JBL</brand>
         <name>JBL Wave 100 TWS Earbuds</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
+        <mrp>2,999</mrp>
+        <offerprice>2,499</offerprice>
         <image>audio1.jpg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
+        <description>Orientation Type: In Ear, Connectivity: Bluetooth, Version 5.0, Battery Life: 20 Hours Playtime, Fast Charging: No, Noise Cancellation: No, Voice Assistant: Google | Siri, USP: 8mm Driver, Deep Bass, Warranty: 12 Months Warranty</description>
+        <qty>9</qty>
+    </product>
+    <product>
+        <id>26</id>
+        <category>audio</category>
+        <brand>Jabra</brand>
+        <name>Jabra Elite 2 TWS Earbuds</name>
+        <mrp>3,299</mrp>
+        <offerprice>2,999</offerprice>
+        <image>audio2.jpg</image>
+        <description>Orientation Type: In Ear, Connectivity: Bluetooth, Version 5.2, Battery Life: 21 Hours Playtime, Fast Charging: Yes, Noise Cancellation: Noise Isolation, Voice Assistant: Alexa | Siri, USP: 2-Mic Call Technology, Stereo Sound, Warranty: 12 Months Warranty</description>
+        <qty>6</qty>
+    </product>
+    <product>
+        <id>27</id>
+        <category>audio</category>
+        <brand>Apple</brand>
+        <name>Apple AirPods Pro 2nd Gen</name>
+        <mrp>26,900</mrp>
+        <offerprice>22,999</offerprice>
+        <image>audio3.jpeg</image>
+        <description>Orientation Type: In Ear, Connectivity: Bluetooth, Version 5.3, Battery Life: 30 Hours, Fast Charging: Yes, Noise Cancellation: Adaptive Noise Cancellation, Voice Assistant: Siri, IPX4 Water and Sweat Resistant, Adaptive Transparency and EQ Tune, 12 Months Warranty</description>
+        <qty>3</qty>
+    </product>
+    <product>
+        <id>28</id>
+        <category>audio</category>
+        <brand>JBL</brand>
+        <name>Flip Portable Bluetooth Speaker</name>
+        <mrp>8,999</mrp>
+        <offerprice>8,499</offerprice>
+        <image>audio4.png</image>
+        <description>Connectivity: Bluetooth v4.2 | USB, Power Output: 20W, Charging Time: 2.5 Hours, Battery Life: 12Hrs, Channel Configuration: Stereo Channel, USP: Party Boost | JBL Bass Radiator, Warranty: 12 months warranty</description>
         <qty>10</qty>
     </product>
     <product>
         <id>29</id>
         <category>audio</category>
-        <brand>Jabra</brand>
-        <name>Jabra Elite 2 TWS Earbuds</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>audio2.jpg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
+        <brand>Carvaan</brand>
+        <name>Saregama Carvaan Portable Speaker</name>
+        <mrp>8,199</mrp>
+        <offerprice>7,999</offerprice>
+        <image>audio5.png</image>
+        <description>Connectivity: Bluetooth | USB | Radio, Power Output: 6W, Battery Life: 5 Hours, Channel Configuration: 2.0 Channel, USP: Pre-loaded with 5000 Evergreen Hindi Songs, Warranty: 12 months warranty</description>
+        <qty>6</qty>
     </product>
     <product>
         <id>30</id>
         <category>audio</category>
         <brand>Apple</brand>
-        <name>Apple AirPods Pro 2nd Gen</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>audio3.jpeg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
-    </product>
-    <product>
-        <id>31</id>
-        <category>audio</category>
-        <brand>JBL</brand>
-        <name>JBL Flip 5 20W Portable Bluetooth Speaker</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>audio4.png</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
-    </product>
-    <product>
-        <id>32</id>
-        <category>audio</category>
-        <brand>Carvaan</brand>
-        <name>Saregama Carvaan 6W Portable Speaker</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
-        <image>audio5.png</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
-    </product>
-    <product>
-        <id>33</id>
-        <category>audio</category>
-        <brand>Apple</brand>
         <name>Apple HomePod (2nd Gen)</name>
-        <mrp>96,000</mrp>
-        <offerprice>46,130</offerprice>
+        <mrp>32,990</mrp>
+        <offerprice>30,990</offerprice>
         <image>audio6.jpeg</image>
-        <description>iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.</description>
-        <qty>10</qty>
+        <description>Virtual Assistant: Built-in Siri, Connectivity: Bluetooth v5.0 | AirPlay | Wi-Fi, Power Source: Electricity, 9.82 cm High Excursion Woofer | Stereo Pair Capable | Spatial Audio, 12 Months Warranty</description>
+        <qty>4</qty>
     </product>
 </products>

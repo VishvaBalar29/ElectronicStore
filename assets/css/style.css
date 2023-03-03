@@ -59,6 +59,7 @@ nav .nav-item {
   height: 50px;
   border-radius: 50%;
   border: 1px solid black;
+  padding: 23px;
 }
 .info-wrap .dbox .icon span {
   font-size: 20px;
