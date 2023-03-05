@@ -17,22 +17,10 @@
     <!-- icon link -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
     <title>Electronic website</title>
-
-
-
-    <style>
-        body {
-    font-family: "Poppins", Arial, sans-serif;
-    font-size: 16px;
-    font-weight: normal;
-    background: white;
-    color: #666666;
-}
-    </style>
-</head>
+    </head>
 
 <body>
-    <!-- navbar starts here -->
+   <!-- navbar starts here -->
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid text-center ps-3">
       <a class="navbar-brand ps-3" href="#" style="color:black;font-size: 25px;"><b
@@ -68,10 +56,10 @@
             <a class="nav-link" href="inquiry.html">Contact us</a>
           </li>
         </ul>
-        <i class="fa fa-search ms-3 text-center" style="font-size:27px"></i>
-        <i class="fa fa-shopping-cart ms-3 text-center" style="font-size:27px"></i>
-        <i class="fa fa-user-circle ms-3 me-2 text-center" data-toggle="modal" data-target="#myModal"
-          style="font-size:27px"></i>
+        <i class="fa fa-search ms-3 text-center" style="font-size:27px;cursor: pointer;"></i>
+        <i class="fa fa-shopping-cart ms-3 text-center" style="font-size:27px;cursor: pointer;"></i>
+        <i class="fa fa-user-circle ms-3 me-2 text-center" data-bs-toggle="modal" data-bs-target="#modalLoginForm"
+          style="font-size:27px;cursor: pointer;"></i>
       </div>
     </div>
   </nav>
@@ -122,8 +110,7 @@
                                                 <div class="col-md-12">
                                                     <div class="form-group">
                                                         <input type="submit" id="btn" value="Send Message"
-                                                            class="btn btn-primary" style="padding: 12px 16px;border-width: 1px;border-radius: 5px;font-size: 14px;
-font-weight: 400;box-shadow: 0px 10px 20px -6px rgb(0 0 0 / 12%);position: relative;margin-bottom: 20px;box-shadow: 0px 10px 20px -6px rgb(0 0 0 / 12%);position: relative;margin-bottom: 20px;display: inline-block;background: black !important;border-color: black !important;color: #fff;">
+                                                            class="btn btn-dark" style="padding: 12px 16px;border-width: 1px;border-radius: 5px;font-size: 14px;font-weight: 400;position: relative;margin-bottom: 20px;position: relative;margin-bottom: 20px;display: inline-block;">
                                                         <div class="submitting"></div>
                                                     </div>
                                                 </div>
@@ -135,7 +122,7 @@ font-weight: 400;box-shadow: 0px 10px 20px -6px rgb(0 0 0 / 12%);position: relat
                                     <div class="info-wrap w-100 p-lg-5 p-4 img">
                                         <h3 style="color: #000;
                                         position: relative;line-height: 1.5;font-weight: 400;margin-bottom: 0.5rem;margin-top: 0;">Contact us</h3>
-                                        <p class="mb-4" style=" margin-bottom: 1.5rem !important;margin-top: 0;">We're open for any suggestion or just to have a chat</p>
+                                        <p class="mb-4" style=" margin-bottom: 1.5rem !important;margin-top: 0;color: #666666;">We're open for any suggestion or just to have a chat</p>
                                         <div class="dbox w-100 d-flex align-items-center">
                                             <div class="icon d-flex align-items-center justify-content-center">
                                                 <span class="fa fa-phone"></span>
@@ -231,6 +218,99 @@ font-weight: 400;box-shadow: 0px 10px 20px -6px rgb(0 0 0 / 12%);position: relat
     </footer>
   </div>
 <!-- Footer End -->
+
+<!-- Modal Form Start -->
+<div class="modal fade" id="modalLoginForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog text-center" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">Sign in</h4>
+        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close" style="font-size: 19px;padding: 0px 8px;border: none;">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <form action="" onsubmit="return vali()">
+        <div class="modal-body mx-3">
+          <div class="md-form mb-5">
+            <div class="row">
+              <div class="col-1 my-auto">
+                <i class="fas fa-envelope" style="font-size: 23px;color: grey;"></i>
+              </div>
+              <div class="col-11">
+                <input type="email" id="eml" class="form-control validate" placeholder="Your Email" style="font-size:18px;">
+              </div>
+              <p id="validEml" class="alert alert-secondary d-none">Please enter valid email..</p>
+            </div>
+          </div>
+          <div class="md-form">
+            <div class="row">
+              <div class="col-1 my-auto">
+                <i class="fas fa-lock" style="font-size: 23px;color: grey;"></i>
+              </div>
+              <div class="col-11">
+                <input type="password" id="pwd" class="form-control validate" placeholder="Your Password" style="font-size:18px;"> 
+              </div>
+              <p id="validPassword" class="alert alert-secondary d-none">Please enter valid password..</p>
+              <p id="validPass" class="alert alert-secondary d-none">must be atleast 6 character</p>
+            </div>
+          </div>
+        </div>
+        <div class="form-check mb-3">
+          <div class="row ms-3">
+            <div class="col-4">
+              <label class="form-check-label">
+                <input class="form-check-input" type="checkbox" name="remember">&nbsp;
+                Remember me
+              </label>
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer d-flex justify-content-center">
+         <button type="submit" class="btn btn-default btn btn-primary ps-4 pe-4 pt-2 pb-2">LOGIN</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+<!-- modal form End-->
+
+<script type="text/javascript"></script>
+<script>
+  function vali() {
+    console.log("Scrip load");
+    let email=$('#eml').val();
+    let pass=$('#pwd').val();
+    let validRegexEmail = /^[a-zA-Z0-9.!#$%&'+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)$/;
+    let flag = true;
+    debugger
+    if (email.match(validRegexEmail)) {
+      $('#validEml').addClass('d-none');
+    }
+    else {
+      $('#validEml').removeClass('d-none');
+      flag = false;
+    }
+    if(pass){
+      $('#validPassword').addClass('d-none');
+    }
+    else{
+      $('#validPassword').removeClass('d-none');
+      flag = false;
+    }
+    if(pass<6){
+      $('#validPass').addClass('d-none');
+    }
+    else{
+      $('#validPass').removeClass('d-none');
+      flag = false;
+    }
+    if (flag) {
+      alert("We will contact you shortly....")
+    }
+    return flag;
+  }
+</script>
 
 <script type="text/javascript"></script>
 <script>   

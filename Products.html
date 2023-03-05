@@ -63,10 +63,10 @@
             <a class="nav-link" href="inquiry.html">Contact us</a>
           </li>
         </ul>
-        <i class="fa fa-search ms-3 text-center" style="font-size:27px"></i>
-        <i class="fa fa-shopping-cart ms-3 text-center" style="font-size:27px"></i>
-        <i class="fa fa-user-circle ms-3 me-2 text-center" data-toggle="modal" data-target="#myModal"
-          style="font-size:27px"></i>
+        <i class="fa fa-search ms-3 text-center" style="font-size:27px;cursor: pointer;"></i>
+        <i class="fa fa-shopping-cart ms-3 text-center" style="font-size:27px;cursor: pointer;"></i>
+        <i class="fa fa-user-circle ms-3 me-2 text-center" data-bs-toggle="modal" data-bs-target="#modalLoginForm"
+          style="font-size:27px;cursor: pointer;"></i>
       </div>
     </div>
   </nav>
@@ -141,6 +141,100 @@
     </footer>
   </div>
 <!-- Footer End -->
+
+<!-- Modal Form Start -->
+<div class="modal fade" id="modalLoginForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog text-center" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">Sign in</h4>
+        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close" style="font-size: 19px;padding: 0px 8px;border: none;">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <form action="" onsubmit="return vali()">
+        <div class="modal-body mx-3">
+          <div class="md-form mb-5">
+            <div class="row">
+              <div class="col-1 my-auto">
+                <i class="fas fa-envelope" style="font-size: 23px;color: grey;"></i>
+              </div>
+              <div class="col-11">
+                <input type="email" id="email" class="form-control validate" placeholder="Your Email" style="font-size:18px;">
+              </div>
+              <p id="validEmail" class="alert alert-secondary d-none">Please enter valid email..</p>
+            </div>
+          </div>
+          <div class="md-form">
+            <div class="row">
+              <div class="col-1 my-auto">
+                <i class="fas fa-lock" style="font-size: 23px;color: grey;"></i>
+              </div>
+              <div class="col-11">
+                <input type="password" id="pwd" class="form-control validate" placeholder="Your Password" style="font-size:18px;"> 
+              </div>
+              <p id="validPassword" class="alert alert-secondary d-none">Please enter valid password..</p>
+              <p id="validPass" class="alert alert-secondary d-none">must be atleast 6 character</p>
+            </div>
+          </div>
+        </div>
+        <div class="form-check mb-3">
+          <div class="row ms-3">
+            <div class="col-4">
+              <label class="form-check-label">
+                <input class="form-check-input" type="checkbox" name="remember">&nbsp;
+                Remember me
+              </label>
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer d-flex justify-content-center">
+         <button type="submit" class="btn btn-default btn btn-primary ps-4 pe-4 pt-2 pb-2">LOGIN</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+<!-- modal form End-->
+
+<script type="text/javascript"></script>
+<script>
+  function vali() {
+    console.log("Scrip load");
+    let email=$('#email').val();
+    let pass=$('#pwd').val();
+    let validRegexEmail = /^[a-zA-Z0-9.!#$%&'+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)$/;
+    let flag = true;
+    debugger
+    if (email.match(validRegexEmail)) {
+      $('#validEmail').addClass('d-none');
+    }
+    else {
+      $('#validEmail').removeClass('d-none');
+      flag = false;
+    }
+    if(pass){
+      $('#validPassword').addClass('d-none');
+    }
+    else{
+      $('#validPassword').removeClass('d-none');
+      flag = false;
+    }
+    if(pass<6){
+      $('#validPass').addClass('d-none');
+    }
+    else{
+      $('#validPass').removeClass('d-none');
+      flag = false;
+    }
+    if (flag) {
+      alert("We will contact you shortly....")
+    }
+    return flag;
+  }
+</script>
+
 <script src="assets/bootstrap-5.2.3-dist/bootstrap-5.2.3-dist/js/bootstrap.bundle.min.js"></script>
 
 <!-- <script src="assets/bootstrap-5.2.3-dist/bootstrap-5.2.3-dist/js/bootstrap.min.js"></script> -->
@@ -211,7 +305,7 @@
                       <div class="modal-content">
                         <div class="modal-header" style="background-color:rgba(114, 109, 109, 0.2);">
                           <h5 class="modal-title" id="exampleModalLongTitle">${xmlDoc.getElementsByTagName('name')[i].childNodes[0].nodeValue}</h5>
-                          <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close" style="font-size: 19px;padding: 0px 8px;">
+                          <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close" style="font-size: 19px;padding: 0px 8px;border: none;">
                           <span aria-hidden="true">&times;</span>
                            </button>
                         </div>
