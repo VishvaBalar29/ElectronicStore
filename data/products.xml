@@ -168,36 +168,36 @@
     <product>
         <id>16</id>
         <category>laptop</category>
-        <brand>Assus</brand>
-        <name>ASUS TUF Ryzen 5</name>
-        <mrp>63,990</mrp>
-        <offerprice>61,990</offerprice>
-        <image>laptop4.jpg</image>
-        <description>Display: 39.62 cms (15.6 inches) FHD IPS, Memory: 8GB DDR4 RAM, 512GB SSD ROM, Processor: AMD Ryzen 5, OS: Windows 11, Graphics: NVIDIA GeForce GTX 1650, Included Software: New Microsoft 365 (1-Month Trial), Warranty: 1 Year Onsite</description>
-        <qty>6</qty>
-    </product>
-    <product>
-        <id>17</id>
-        <category>laptop</category>
-        <brand>Dell</brand>
-        <name>Dell i5 12th Gen</name>
-        <mrp>55,999</mrp>
-        <offerprice>51,999</offerprice>
-        <image>laptop5.jpg</image>
-        <description>Display: 39.2 cms (15.6 inches), FHD, Memory : 8GB DDR4 RAM, 512 SSD ROM, Processor: Intel Core i5 12th Generation, OS : Windows 11, Graphics : Intel UMA, Included Software: MS Office 2021, Warranty: 1 Year Onsite</description>
-        <qty>7</qty>
-    </product>
-    <product>
-        <id>18</id>
-        <category>laptop</category>
         <brand>HP</brand>
         <name>HP Pavilion 14 i3 11th Gen</name>
         <mrp>51,990</mrp>
         <offerprice>49,990</offerprice>
-        <image>laptop6.jpg</image>
-        <description>Display: 35.56 cms (14 inches), FHD IPS, Memory: 8GB DDR4 RAM, 256GB SSD ROM, Processor: Intel Core i3 11th Generation, OS: Windows 11 Home
-Graphics: Intel UHD, Included Software: MS Office Home Student 2019, Warranty: 1 Year Onsite</description>
+        <image>laptop4.jpg</image>
+        <description>Display: 35.56 cms (14 inches), FHD IPS, Memory: 8GB DDR4 RAM, 256GB SSD ROM, Processor: Intel Core i3 11th Generation, OS: Windows 11 Home, Graphics: Intel UHD, Included Software: MS Office Home Student 2019, Warranty: 1 Year Onsite</description>
         <qty>3</qty>
+    </product>
+    <product>
+        <id>17</id>
+        <category>laptop</category>
+        <brand>Nokia</brand>
+        <name>NOKIA T20 Wi-Fi Android Tablet</name>
+        <mrp>17,499</mrp>
+        <offerprice>15,499</offerprice>
+        <image>laptop5.png</image>
+        <description>10.4 inches (26.42 cm) TFT LCD Display, 4 GB RAM, 64 GB ROM, Expandable upto 512 GB, Unisoc T610, 1.8 GHz, Android OS
+8200 mAh Battery With 15 Watts Fast Charging, 8 MP Primary Camera, 5 MP Front Camera, Built-in Stereo Speakers, SGS Low Blue Light Certification, IP52 Waterproof</description>
+        <qty>6</qty>
+    </product>
+    <product>
+        <id>18</id>
+        <category>laptop</category>
+        <brand>Samsung</brand>
+        <name>SAMSUNG Galaxy Android Tablet</name>
+        <mrp>20,999</mrp>
+        <offerprice>19,999</offerprice>
+        <image>laptop6.png</image>
+        <description>0.5 inches (26.69 cm) TFT WUXGA Display, 4 GB RAM, 64 GB ROM, Expandable upto 1 TB, Unisoc T618, 8 Core, 2 GHz Android OS 7040 mAh Battery With 15 Watts Fast Charging, 8 MP Primary Camera, 5 MP Front Camera, Dolby Quad Speakers, Cinematic Stereo Sound With Dolby Atmos, Full HD Recording</description>
+        <qty>7</qty>
     </product>
     <product>
         <id>19</id>
